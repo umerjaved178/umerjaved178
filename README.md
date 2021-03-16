@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 👯 Want to collaborate on exciting React projects
 - 🥅 2021 Goals: Contribute to Opensource projects
 - 📫 You can reach me at umerjaved178@gmail.com
-- ⚡ Fun fact: I love to travel
+- ⚡ Fun fact: Have strong business insight
 
 
 <!-- Actual text -->
