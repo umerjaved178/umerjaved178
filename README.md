@@ -4,7 +4,8 @@ umerjaved178/umerjaved178 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github.com/umerjaved178/umerjaved178/blob/main/Richard%20Sanchez.png"/>
- <hr></hr>
+ 
+ 
 # Hello, folks! I’m Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I’m a Student, Coding Geek, and Problem Solver!
