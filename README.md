@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me at umerjaved178@gmail.com
 - ⚡ Fun fact: I love to travel
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 ### Connect with me:
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
