@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## I’m a Student, Coding Geek, and Problem Solver!
 - 🔭 I’m currently working on Full Stack Projects
 - 👀 I’m looking for Internship / student job 
-- 👯 I’m looking to collaborate with on React projects
+- 👯 Want to collaborate on exciting React projects
 - 🥅 2021 Goals: Contribute to Opensource projects
 - 📫 You can reach me at umerjaved178@gmail.com
 - ⚡ Fun fact: I love to travel
