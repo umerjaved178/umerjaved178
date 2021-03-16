@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @umerjaved178
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 umerjaved178/umerjaved178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,12 +5,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Hi there, I’m Jobin 👋
-## I’m a Husband, Father, Devops, and System Administrator!
-- 🔭 I’m currently working on a nothing
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
-- 🥅 2020 Goals: Study and contribute to Opensource projects
+### Hi there, I’m Umar 👋
+## I’m a Student, Coding Geek, and Problem Solver!
+- 🔭 I’m currently working on Full Stack Projects
+- 👀 I’m looking for Internship / student job 
+- 👯 I’m looking to collaborate with on React projects
+- 🥅 2021 Goals: Contribute to Opensource projects
+- 📫 You can reach me at umerjaved178@gmail.com
 - ⚡ Fun fact: I love to travel
 
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
