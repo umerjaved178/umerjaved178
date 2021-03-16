@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://www.linkedin.com/in/javed-umar/
 [linkedin]: https://www.linkedin.com/in/javed-umar/
 [facebook]: https://www.facebook.com/profile.php?id=100007072057915
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
