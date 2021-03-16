@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I love to travel
 
 
-### Connect with me:
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- Actual text -->
