@@ -49,7 +49,3 @@ You can click the Preview link to take a look at your changes.
 [website]: https://www.linkedin.com/in/javed-umar/
 [linkedin]: https://www.linkedin.com/in/javed-umar/
 [facebook]: https://www.facebook.com/profile.php?id=100007072057915
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
