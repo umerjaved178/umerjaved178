@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/umerjaved178/umerjaved178/blob/main/Richard%20Sanchez%20(1).png"/>
  
  
-# Hello, folks! I’m Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! This is Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
 - 🔭 I have worked on entreprise level B2B / Saas projects
