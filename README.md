@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
  
 # Hello, folks! I’m Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I’m a Student, Coding Geek, and Problem Solver!
+## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
 - 🔭 I have worked on entreprise level B2B / Saas projects
 - 👀 I’m looking for Junior Frontend Developer position in Germany
 - 👯 Want to collaborate on exciting React projects
