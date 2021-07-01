@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
 - 🔭 I have worked on entreprise level B2B / Saas projects
-- 👀 I’m looking for Junior Frontend Developer position in Germany
+- 👀 I’m looking for ----
 - 👯 Want to collaborate on exciting React projects
 - 🥅 2021 Goals: Contribute to Opensource projects
 - 📫 You can reach me at umerjaved178@gmail.com
