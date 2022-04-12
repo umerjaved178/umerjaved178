@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
 - 💡 Building something amazing - Coming SoOOoooOoon!!! 🚀
-- 👯 If you are savvy at creativity, hit me up to change te world together 
+- 👯 If you are savvy at creativity, hit me up to change the world together 
 - 🥅 2022 Goals: Hit $1m ARR
 - 🔭 I have worked on entreprise level B2B / Saas projects
 - 📫 You can reach me out at umerjaved178@gmail.com
