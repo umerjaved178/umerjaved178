@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 # Hello, folks! This is Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
+- 💡 Building something amazing - Coming SoOOoooOoon!!! 🚀
 - 🔭 I have worked on entreprise level B2B / Saas projects
-- 👀 I’m looking for ----
 - 👯 Want to collaborate on exciting React projects
 - 🥅 2021 Goals: Contribute to Opensource projects
 - 📫 You can reach me at umerjaved178@gmail.com
