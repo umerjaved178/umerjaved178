@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 # Hello, folks! This is Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
-- 💡 Building something amazing - coming soon baby ;) !!! 
+- 💡 Building something amazing - coming soon baby 😉
 - 👯 If you are savvy at creativity, hit me up to change the world together 
 - 🥅 2023 Goals: building and testing products
 - 📫 You can reach me out at umerjaved178@gmail.com
