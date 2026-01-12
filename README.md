@@ -3,17 +3,15 @@
 umerjaved178/umerjaved178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github.com/umerjaved178/umerjaved178/blob/main/Richard%20Sanchez%20(1).png"/>
  
  
 # Hello, folks! This is Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I’m a Frontend Enthusiast, Coding Geek, and Problem Solver!
-- 💡 Building something amazing - coming soon baby 😉
+## I’m a Problem Solver and Coding Geek!
+- 💡 Build, distribute, and earn!
 - 👯 If you are savvy at distribution, hit me up to change the world together 
-- 🥅 2023 Goals: building and testing products
 - 📫 You can reach me out at umerjaved178@gmail.com
-- ⚡ Fun fact: Have strong entrepreneurial insights
+- ⚡ Fun fact: Have strong entrepreneurial insights, understand users psychology to the core
 
 
 ### Connect with me:
