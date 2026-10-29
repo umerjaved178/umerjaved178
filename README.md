@@ -1,48 +1,65 @@
+<div align="center">
 
-<!---
-umerjaved178/umerjaved178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
- 
-# Hello, folks! This is Umar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Umar Javed
 
-## I’m a Problem Solver and Coding Geek!
-- 💡 Build, distribute, and earn!
-- 👯 If you are savvy at distribution, hit me up to change the world together 
-- 📫 You can reach me out at umerjaved178@gmail.com
-- ⚡ Fun fact: Have strong entrepreneurial insights, understand users psychology to the core
+### Senior Full-Stack & AI Engineer
 
+I build reliable, high-performance products at the intersection of modern web engineering and applied AI.
 
-### Connect with me:
-###### Turn off Night mode
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-javed--umar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javed-umar/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerjaved178@gmail.com)
+[![Location](https://img.shields.io/badge/Berlin-Germany-222222?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<br />
+</div>
 
-### Languages and Tools:
+## About me
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/docker/docker.png" />
-<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<br />
-<br />
+I'm a Berlin-based software engineer with 5+ years of experience building and scaling customer-facing products. My background spans React platforms used across international markets, TypeScript and NestJS backend services, and production AI systems built with RAG and agentic workflows.
 
+I enjoy turning ambiguous customer problems into simple, dependable products—then improving them through measurement, experimentation, and close collaboration with product and design teams.
 
+## Selected impact
 
+- Improved application performance scores from **57 to 92** through code splitting, caching, and frontend architecture improvements.
+- Rebuilt a core React product experience and reduced load times by an estimated **45%**.
+- Resolved production issues affecting **100,000+ users across five countries**, coordinating delivery across multiple teams.
+- Built a shared React and TypeScript component library adopted by **15 cross-functional teams**.
+- Designed and shipped an AI customer-support platform end to end, including knowledge ingestion, retrieval, agent workflows, integrations, and conversational interfaces.
+- Instrumented and improved partner flows that contributed to a **12.2% relative reduction** in farm-creation cancellations.
 
-[website]: https://www.linkedin.com/in/javed-umar/
-[linkedin]: https://www.linkedin.com/in/javed-umar/
-[facebook]: https://www.facebook.com/profile.php?id=100007072057915
+## What I work with
+
+**AI engineering**<br>
+RAG · LangGraph · LangChain · Agentic workflows · Tool calling · MCP · Embeddings · Vector and hybrid search · Reranking · LLM evaluation and observability
+
+**Frontend**<br>
+React · TypeScript · JavaScript · Redux Toolkit · TanStack Query · Vite · Jest · Material UI · Radix UI · Microfrontends
+
+**Backend & data**<br>
+NestJS · Node.js · REST · GraphQL · PostgreSQL · TypeORM · Event-driven architecture · Docker
+
+**Product delivery**<br>
+System design · Performance optimization · A/B testing · LaunchDarkly · Segment · Cross-functional collaboration
+
+## Recognition
+
+- **Meta Llama GenAI Hackathon** — 4th place for an AI-powered wearable memory assistant.
+- **Prototype Fund Germany** — selected for a competitive federal grant supporting 25 software projects nationwide.
+- **Certified Scrum Developer** — Scrum Alliance, 2024.
+
+## Currently interested in
+
+Senior Software Engineer, Full-Stack Engineer, Frontend Platform Engineer, and Applied AI Engineer opportunities where product ownership and engineering quality matter.
+
+## Let's connect
+
+I'm always happy to talk about product engineering, AI systems, frontend architecture, or an interesting role.
+
+- [LinkedIn](https://www.linkedin.com/in/javed-umar/)
+- [Email](mailto:umerjaved178@gmail.com)
+
+<div align="center">
+
+![Umar's GitHub activity](https://github-readme-stats.vercel.app/api?username=umerjaved178&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true)
+
+</div>
