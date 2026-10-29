@@ -44,7 +44,7 @@ System design · Performance optimization · A/B testing · LaunchDarkly · Segm
 ## Recognition
 
 - **Meta Llama GenAI Hackathon** — 4th place for an AI-powered wearable memory assistant.
-- **Prototype Fund Germany** — selected for a competitive federal grant supporting 25 software projects nationwide.
+- **Prototype Fund Germany** — selected for a highly competitive federal grant supporting 25 software projects nationwide.
 - **Certified Scrum Developer** — Scrum Alliance, 2024.
 
 ## Let's connect
