@@ -47,10 +47,6 @@ System design · Performance optimization · A/B testing · LaunchDarkly · Segm
 - **Prototype Fund Germany** — selected for a competitive federal grant supporting 25 software projects nationwide.
 - **Certified Scrum Developer** — Scrum Alliance, 2024.
 
-## Currently interested in
-
-Senior Software Engineer, Full-Stack Engineer, Frontend Platform Engineer, and Applied AI Engineer opportunities where product ownership and engineering quality matter.
-
 ## Let's connect
 
 I'm always happy to talk about product engineering, AI systems, frontend architecture, or an interesting role.
