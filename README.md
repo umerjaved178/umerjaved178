@@ -44,12 +44,8 @@ System design · Performance optimization · A/B testing · LaunchDarkly · Segm
 ## Recognition
 
 - **Meta Llama GenAI Hackathon** — 4th place for an AI-powered wearable memory assistant.
-- **Prototype Fund Germany** — selected for a competitive federal grant supporting 25 software projects nationwide.
+- **Prototype Fund Germany** — selected for a highly competitive federal grant supporting 25 software projects nationwide.
 - **Certified Scrum Developer** — Scrum Alliance, 2024.
-
-## Currently interested in
-
-Senior Software Engineer, Full-Stack Engineer, Frontend Platform Engineer, and Applied AI Engineer opportunities where product ownership and engineering quality matter.
 
 ## Let's connect
 
@@ -57,9 +53,3 @@ I'm always happy to talk about product engineering, AI systems, frontend archite
 
 - [LinkedIn](https://www.linkedin.com/in/javed-umar/)
 - [Email](mailto:umerjaved178@gmail.com)
-
-<div align="center">
-
-![Umar's GitHub activity](https://github-readme-stats.vercel.app/api?username=umerjaved178&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true)
-
-</div>
