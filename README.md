@@ -57,9 +57,3 @@ I'm always happy to talk about product engineering, AI systems, frontend archite
 
 - [LinkedIn](https://www.linkedin.com/in/javed-umar/)
 - [Email](mailto:umerjaved178@gmail.com)
-
-<div align="center">
-
-![Umar's GitHub activity](https://github-readme-stats.vercel.app/api?username=umerjaved178&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true)
-
-</div>
