@@ -24,16 +24,16 @@ I enjoy turning ambiguous customer problems into simple, dependable products—t
 - Rebuilt a core React product experience and reduced load times by an estimated **45%**.
 - Resolved production issues affecting **100,000+ users across five countries**, coordinating delivery across multiple teams.
 - Built a shared React and TypeScript component library adopted by **15 cross-functional teams**.
-- Designed and shipped an AI customer-support platform end to end, including knowledge ingestion, retrieval, agent workflows, integrations, and conversational interfaces.
+- Designed and shipped an AI customer-support platform end-to-end, including knowledge ingestion, retrieval, agent workflows, integrations, and conversational interfaces.
 - Instrumented and improved partner flows that contributed to a **12.2% relative reduction** in farm-creation cancellations.
 
 ## What I work with
 
-**AI engineering**<br>
-RAG · LangGraph · LangChain · Agentic workflows · Tool calling · MCP · Embeddings · Vector and hybrid search · Reranking · LLM evaluation and observability
+**Programming Languages**<br>
+TypeScript · JavaScript (ES6+)
 
 **Frontend**<br>
-React · TypeScript · JavaScript · Redux Toolkit · TanStack Query · Vite · Jest · Material UI · Radix UI · Microfrontends
+React Ecosystem · Nextjs · Redux Toolkit · TanStack Query · Vite · Jest · Material UI · Radix UI · Microfrontends
 
 **Backend & data**<br>
 NestJS · Node.js · REST · GraphQL · PostgreSQL · TypeORM · Event-driven architecture · Docker
@@ -41,11 +41,15 @@ NestJS · Node.js · REST · GraphQL · PostgreSQL · TypeORM · Event-driven ar
 **Product delivery**<br>
 System design · Performance optimization · A/B testing · LaunchDarkly · Segment · Cross-functional collaboration
 
+**AI engineering**<br>
+RAG · LangGraph · LangChain · Agentic workflows · Tool calling · MCP · Embeddings · Vector and hybrid search · Reranking · LLM evaluation and observability
+
 ## Recognition
 
 - **Meta Llama GenAI Hackathon** — 4th place for an AI-powered wearable memory assistant.
 - **Prototype Fund Germany** — selected for a highly competitive federal grant supporting 25 software projects nationwide.
 - **Certified Scrum Developer** — Scrum Alliance, 2024.
+- **Registered Engineer** — PEC.
 
 ## Let's connect
 
