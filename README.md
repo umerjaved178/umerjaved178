@@ -20,6 +20,7 @@ I enjoy turning ambiguous customer problems into simple, dependable products—t
 
 ## Selected impact
 
+- Built an open-source SDK that brings end-to-end encrypted group messaging, built on the MLS standard (RFC 9420), to web, mobile, and backend apps.
 - Improved application performance scores from **57 to 92** through code splitting, caching, and frontend architecture improvements.
 - Rebuilt a core React product experience and reduced load times by an estimated **45%**.
 - Resolved production issues affecting **100,000+ users across five countries**, coordinating delivery across multiple teams.
